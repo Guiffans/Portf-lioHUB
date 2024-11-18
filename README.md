@@ -1,6 +1,6 @@
 # PortfolioHUB
 
-<h1 align="left">Portfólio de Guilherme Rocha de Barros</h1>
+<h1 align="left"Olá, eu sou Guilherme Rocha de Barros e seja bem vindo ao </h1>
 
 ###
 
@@ -18,8 +18,8 @@
 ###
 
 <p align="left">
-✔️ Experiência: estudo contínuo e prática em linguagens de programação e desenvolvimento web.<br><br>
-✔️ Conquistas: obtenção de certificações em diversas tecnologias como Java, PHP, React e Angular.
+✔️ Experiência:Uso de Java e SpringBoot, Php E lARAVEL, REACT e ANGULAR.<br><br>
+✔️ Conquistas: obtenção de certificações em diversas tecnologias como Java, PHP, React e Angular. Experiencia como professor partícular e músico profissional.
 </p>
 
 ###
